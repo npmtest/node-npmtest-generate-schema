@@ -1,6 +1,6 @@
 # npmtest-generate-schema
 
-#### test coverage for  [generate-schema (v2.5.0)](https://github.com/Nijikokun/generate-schema)  [![npm package](https://img.shields.io/npm/v/npmtest-generate-schema.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generate-schema) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generate-schema.svg)](https://travis-ci.org/npmtest/node-npmtest-generate-schema)
+#### basic test coverage for  [generate-schema (v2.5.0)](https://github.com/Nijikokun/generate-schema)  [![npm package](https://img.shields.io/npm/v/npmtest-generate-schema.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generate-schema) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generate-schema.svg)](https://travis-ci.org/npmtest/node-npmtest-generate-schema)
 
 #### Effortlessly convert your JSON Object to JSON Schema, Mongoose Schema, or a Generic template for quick documentation / upstart.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-generate-schema/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-generate-schema/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-generate-schema/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-generate-schema/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-generate-schema/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-generate-schema/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-generate-schema/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-generate-schema/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-generate-schema/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-generate-schema/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-generate-schema/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-generate-schema/build/coverage.html/index.html)
 
